@@ -8,7 +8,7 @@ require (
 	github.com/labstack/echo/v4 v4.13.3
 	github.com/labstack/gommon v0.4.2
 	github.com/sirupsen/logrus v1.9.3
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/tidwall/gjson v1.18.0
 	golang.org/x/term v0.30.0
 )
