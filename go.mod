@@ -3,7 +3,7 @@ module github.com/pilinux/logrus
 go 1.23.0
 
 require (
-	github.com/getsentry/sentry-go v0.37.0
+	github.com/getsentry/sentry-go v0.41.0
 	github.com/gin-gonic/gin v1.10.0
 	github.com/labstack/echo/v4 v4.13.3
 	github.com/labstack/gommon v0.4.2
